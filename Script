@@ -1,0 +1,2 @@
+<p>a invis pot for game websites just put it in a compiler<p>
+<button onclick="var w=window.open('about:blank');w.document.write('<iframe src=\'https://putlinkhere\' style=\'position:fixed;top:0;left:0;width:100%;height:100%;border:none;\'></iframe>');w.document.close();">hide</button> <p>made by zaapiz skids please don’t change code to say your name<p>
